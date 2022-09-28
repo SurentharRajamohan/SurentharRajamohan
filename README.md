@@ -19,10 +19,10 @@ Here are some ideas to get you started:
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&langs_count=9&theme=midnight-purple)](https://github.com/SurentharRajamohan/github-readme-stats)
 
-<a href="https://github.com/SurentharRajamohan/github-readme-stats">
+<!-- <a href="https://github.com/SurentharRajamohan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurentharRajamohan&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/SurentharRajamohan/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurentharRajamohana&repo=convoychat" />
 </a>
-
+ -->
