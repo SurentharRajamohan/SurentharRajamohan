@@ -17,6 +17,5 @@ Here are some ideas to get you started:
 
 [![Surenthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/SurentharRajamohan/github-readme-stats)
 
-[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&langs_count=10&theme=midnight-purple)](https://github.com/SurentharRajamohan/github-readme-stats)
+[![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&langs_count=9&theme=midnight-purple)](https://github.com/SurentharRajamohan/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SurentharRajamohan&repo=github-readme-stats)](https://github.com/SurentharRajamohana/github-readme-stats)
