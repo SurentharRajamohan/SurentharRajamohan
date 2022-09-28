@@ -15,5 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SurentharRajamohan
- &theme=radical)
+[![Surenthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurentharRajamohan)](https://github.com/SurentharRajamohan/github-readme-stats)
