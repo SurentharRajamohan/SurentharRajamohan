@@ -4,12 +4,12 @@
 
 - 🔭 I’m currently studying at University of Malaya
 - 🌱 I’m currently doing my major in Software Engineering
-<!-- - 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ... -->
+- 💬 Ask me about ...
 - 📫 How to reach me: surenthar.rajamohan@gmail.com
 - 😄 Pronouns: He/Him
-<!-- - ⚡ Fun fact: I like playing games haha -->
+- ⚡ Fun fact: I like playing games haha
 
 [![Surenthar's GitHub stats](https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&count_private=true&show_icons=true&theme=midnight-purple)](https://github.com/SurentharRajamohan/github-readme-stats)
 
