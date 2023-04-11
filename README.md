@@ -15,11 +15,11 @@
 
 [![Top Languages Used](https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&langs_count=8&theme=midnight-purple&count_private=true)](https://github.com/SurentharRajamohan/github-readme-stats)
 
-<a href="https://github.com/SurentharRajamohan/github-readme-stats">
+<!-- <a href="https://github.com/SurentharRajamohan/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurentharRajamohan&repo=github-readme-stats" />
 </a>
 <a href="https://github.com/SurentharRajamohan/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=SurentharRajamohana&repo=convoychat" />
-</a>
+</a> -->
  
 
