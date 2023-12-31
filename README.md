@@ -116,14 +116,11 @@
 </a>
 </div>
 
-###
-
+### 🐍 Contibution (Snake Edition🤣)
 <br clear="both">
-<!--
-<img src="https://raw.githubusercontent.com/SurentharRajamohan/SurentharRajamohan/output/snake.svg" alt="Snake animation" />
--->
 
-![snake gif](https://github.com/SurentharRajamohan/SurentharRajamohan/blob/output/github-contribution-grid-snake.gif)
+<img src="https://raw.githubusercontent.com/SurentharRajamohan/SurentharRajamohan/output/snake.svg" alt="Snake animation" />
+
 ###
 
 
