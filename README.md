@@ -1,21 +1,40 @@
-<h2 align="left">Surenthar Rajamohan, 21</h2>
+# 💫Surenthar Rajamohan, 21:
+
+<table style="width: 100%; border-collapse: collapse;">
+  <tr>
+    <td style="text-align: left; padding: 10px;">
+      <p align="left">
+        🎓 I’m currently studying at University of Malaya<br>
+        👨🏻‍💻 I’m currently doing my major in Software Engineering<br>
+        📫 How to reach me: surenthar.rajamohan@gmail.com<br>
+        😄 Pronouns: He/Him<br>
+        ☕ I run on coffee & tea
+      </p>
+    </td>
+    <td style="padding: 10px;">
+      <img height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" alt="Your Alt Text">
+    </td>
+  </tr>
+</table>
 
 ###
-
-<p align="left">🎓 I’m currently studying at University of Malaya<br>👨🏻‍💻 I’m currently doing my major in Software Engineering<br>📫 How to reach me: surenthar.rajamohan@gmail.com<br>😄 Pronouns: He/Him<br>☕ I run on coffee & tea</p>
-
-###
-
+<!--
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SurentharRajamohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+-->
 
-###
+### 📊 GitHub Stats:
+<div style="display: flex; justify-content: center; align-items: center; width: 100%;">
+  <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+</div>
 
-<p align="left">🌐 Languages</p>
+### 🌐 Languages:
 
-###
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
@@ -38,9 +57,7 @@
 </div>
 
 ###
-
-<p align="left">🛠️ Tools, Frameworks & Libraries</p>
-
+### 🛠️ Tools, Frameworks & Libraries:
 ###
 
 <div align="left">
@@ -80,9 +97,12 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
 </div>
+<!--
+### 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=SurentharRajamohan&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
+-->
 
-###
-<p align="left">🤝 Connect With Me</p>
+### 🤝 Connect With Me
 
 <div align="left">
   <a href="https://www.youtube.com/@surentharrajamohan8185" target="_blank">
@@ -104,9 +124,6 @@
 
 ###
 
-<div align="center">
-  <img height="200" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif"  />
-</div>
 
 ###
 
