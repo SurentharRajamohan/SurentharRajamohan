@@ -124,14 +124,15 @@
 
 <img src="https://raw.githubusercontent.com/SurentharRajamohan/SurentharRajamohan/output/snake.svg" alt="Snake animation" />
 
+<div align="center">
+  <img src="https://profile-counter.glitch.me/SurentharRajamohan/count.svg?"  />
+</div>
 ###
 <hr>
 
 
 ###
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/SurentharRajamohan/count.svg?"  />
-</div>
+
 
 ###
