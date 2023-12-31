@@ -25,13 +25,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SurentharRajamohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 -->
-
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
   <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
+<hr>
 
 ### 🌐 Languages:
 
@@ -55,6 +55,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
 </div>
+<hr>
 
 ###
 ### 🛠️ Tools, Frameworks & Libraries:
@@ -101,6 +102,7 @@
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=SurentharRajamohan&theme=onestar&no-frame=false&no-bg=false&margin-w=4)
 -->
+<hr>
 
 ### 🤝 Connect With Me
 
@@ -115,6 +117,7 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
 </a>
 </div>
+<hr>
 
 ### 🐍 Contibution (Snake Edition🤣)
 <br clear="both">
@@ -122,6 +125,7 @@
 <img src="https://raw.githubusercontent.com/SurentharRajamohan/SurentharRajamohan/output/snake.svg" alt="Snake animation" />
 
 ###
+<hr>
 
 
 ###
