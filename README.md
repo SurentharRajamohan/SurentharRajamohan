@@ -27,8 +27,8 @@
 -->
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-  <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
+<!--   <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
+<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" /> -->
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 <hr>
