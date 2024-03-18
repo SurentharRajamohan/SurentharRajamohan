@@ -6,7 +6,7 @@
       <p align="left">
         🎓 I’m currently studying at University of Malaya<br>
         👨🏻‍💻 I’m currently doing my major in Software Engineering<br>
-        📫 How to reach me: surenthar.rajamohan@gmail.com<br>
+        📫 How to reach me: <a href="mailto:surenthar.rajamohan@gmail.com">surenthar.rajamohan@gmail.com<a><br>
         😄 Pronouns: He/Him<br>
         ☕ I run on coffee & tea
       </p>
