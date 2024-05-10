@@ -2,7 +2,7 @@
 
 <table style="width: 100%; border-collapse: collapse;">
   <tr>
-    <td style="text-align: left; padding: 10px;">
+    <td style="text-align: left; padding: 10px;"> 
       <p align="left">
         🎓 I’m currently studying at University of Malaya<br>
         👨🏻‍💻 I’m currently doing my major in Software Engineering<br>
