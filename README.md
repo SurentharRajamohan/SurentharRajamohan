@@ -1,6 +1,6 @@
 # 💫Surenthar Rajamohan, 22:
 
-<table style="width: 100%; border-collapse: collapse;">
+<table style="width: 100%; margin: auto; border: none; ">
   <tr>
     <td style="text-align: left; padding: 10px;"> 
       <p align="left">
