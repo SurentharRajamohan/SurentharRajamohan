@@ -1,6 +1,6 @@
 # 💫Surenthar Rajamohan, 22:
 
-<table style="width: 100%; margin: auto; border: none; ">
+<table  style="width: 100%;  ">
   <tr>
     <td style="text-align: left; padding: 10px;"> 
       <p align="left">
@@ -17,18 +17,25 @@
   </tr>
 </table>
 
+## Course Expectation
+
+As a Software Engineering student, I'm really excited to take WIF3005 because I know how important it is to keep software running smoothly and adapt it over time. I’m looking forward to learning how to handle real-world challenges when it comes to maintaining and improving software, and I think this course will help me build better, long-lasting systems. I'm hoping to gain practical skills that will be useful in my future projects and career as a software engineer!
+<br>
+<br>
+<hr>
+
 ###
-<!--
+<!-- 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SurentharRajamohan&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
--->
+</div> -->
+
 ### 📊 GitHub Stats:
 <div style="display: flex; justify-content: center; align-items: center; width: 100%;">
-<!--   <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
-<!--   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" /> -->
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /> -->
+   <img src="https://github-readme-streak-stats.herokuapp.com/?user=SurentharRajamohan&theme=gruvbox&hide_border=false" alt="GitHub Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SurentharRajamohan&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
 </div>
 <hr>
@@ -83,9 +90,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="30" alt="kubernetes logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="30" alt="jupyter logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain.svg" height="30" alt="laravel logo"  />
-  <img width="12" />
+   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="30" alt="numpy logo"  />
