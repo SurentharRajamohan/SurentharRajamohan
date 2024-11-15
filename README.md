@@ -17,12 +17,7 @@
   </tr>
 </table>
 
-## Course Expectation
 
-As a Software Engineering student, I'm really excited to take WIF3005 because I know how important it is to keep software running smoothly and adapt it over time. I’m looking forward to learning how to handle real-world challenges when it comes to maintaining and improving software, and I think this course will help me build better, long-lasting systems. I'm hoping to gain practical skills that will be useful in my future projects and career as a software engineer!
-<br>
-<br>
-<hr>
 
 ###
 <!-- 
